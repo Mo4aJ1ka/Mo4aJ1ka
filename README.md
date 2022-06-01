@@ -20,8 +20,8 @@
             <li>CSS</li>
         </ul>
         <h2 class="card-subtitle2">My contacts:</h2>
-        <p><a href="#">+375445610747</a></p>
-        <a class="contact" href="#">sasha123nikitko@gmail.com</a>
+        <p><a href="#">+375----</a></p>
+        <a class="contact" href="#">sasha----</a>
     </div>
     </div>
 
